@@ -1,0 +1,60 @@
+body{
+    background-color: bisque;
+}
+.h1{
+    text-align: center;
+    border: black 2px solid;
+    border-radius: 10px ;
+    padding: 5px;
+}
+.firstdiv{
+    border: 3px solid ;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: rgb(255, 211, 156);
+
+}
+#firstp{
+  font-family: "Special Elite", system-ui;
+  font-weight: 400;
+  font-style: normal;
+line-height: 1.5;
+
+}
+.firstimg{
+    width: clamp(100px, 20vw , 150px);
+    float: right;
+    margin: 10px;
+    border-radius: 15px;
+    border: 2px solid;
+}
+.name{
+      font-family: "Galindo", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.overv{
+      font-family: "Exo 2", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+.jop{
+          font-family: "Exo 2", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+.born{
+          font-family: "Exo 2", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;    
+}
+.dead{
+             font-family: "Exo 2", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;   
+}
