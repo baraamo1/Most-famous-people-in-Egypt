@@ -1,4 +1,4 @@
-# Most-famous-people-in-Egypt
+# Most famous people in Egypt
 
 ## This website is talking about most 10 popular and effective people in Egypt in different topics like sports, science, kings, etc...
 
